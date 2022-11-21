@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on projects for newbies 
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/david-baghdasaryan-6a366731
 
